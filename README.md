@@ -62,7 +62,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="50">
   </a>
 
-  <a href="https://discord.com/users/Wasif | Frontend Dev">
+  <a href="https://discord.com/users/wasifworks">
     <img src="https://skillicons.dev/icons?i=discord" width="50">
   </a>
 </p>
