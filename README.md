@@ -1,11 +1,12 @@
-
+<!-- 👋 Animated Intro -->
 <h1 align="center">Hi there 👋</h1>
 
+<!-- 🔥 Typing Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Wasif+Works;Front-End+Developer;Web+Developer;Tech+Enthusiast" />
 </h1>
 
-
+<!-- 🔵 Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUSED-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/DEVELOPER-green?style=for-the-badge">
@@ -14,6 +15,7 @@
 
 ---
 
+<!-- 👨‍💻 About Me -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
@@ -27,7 +29,7 @@
 
 ---
 
-
+<!-- 🧰 Tech Stack -->
 <h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
@@ -40,7 +42,7 @@
 
 ---
 
-
+<!-- 🌐 Connect With Me -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -59,10 +61,15 @@
   <a href="https://instagram.com/wasif__1_">
     <img src="https://skillicons.dev/icons?i=instagram" width="50">
   </a>
+
+  <a href="https://discord.com/users/Wasif | Frontend Dev">
+    <img src="https://skillicons.dev/icons?i=discord" width="50">
+  </a>
 </p>
 
 ---
 
+<!-- ✨ Extra Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/master/gifs/wave.gif" width="200">
 </p>
